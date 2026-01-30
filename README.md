@@ -1,8 +1,8 @@
 # Diving Deep into Telco Churn with SQL: My Project
-Hey there! This repository holds a project I've been working on to really dig into why customers leave telecom companies. It's built entirely using SQL, focusing on a dataset of telco customer behavior. My goal here was to sharpen my SQL skills and understand how data analytics can directly tackle a real business problem like customer churn.
+This repository holds a project I've been working on to really dig into why customers leave telecom companies. It's built entirely using SQL, focusing on a dataset of telco customer behavior. My goal here was to sharpen my SQL skills and understand how data analytics can directly tackle a real business problem like customer churn.
 
 ### What's This All About?
-Imagine a phone company wanting to stop customers from leaving. That's the core challenge this project addresses! I've used SQL to break down various aspects of customer data – from the kind of contracts they have, to their internet services, payment methods, and how long they've been with the company. The aim was to pinpoint patterns, identify high-risk groups, and generally figure out what drives churn.
+Imagine a phone company wanting to stop customers from leaving. That's the core challenge this project addresses. I've used SQL to break down various aspects of customer data – from the kind of contracts they have, to their internet services, payment methods, and how long they've been with the company. The aim was to pinpoint patterns, identify high-risk groups, and generally figure out what drives churn.
 
 ### What I Did
 I've crafted a series of SQL queries (you'll find them all in the `sql/` folder!) that cover a bunch of analytical ground:
